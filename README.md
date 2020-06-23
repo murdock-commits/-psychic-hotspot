@@ -20,7 +20,7 @@ or  Properties -> Permissions -> Allow executing file as a program
 
 ***
 
-**Copy-paste this: **
+**Copy-paste this:**
 
 	#! /bin/bash
 	
@@ -41,7 +41,7 @@ or  Properties -> Permissions -> Allow executing file as a program
 ***
 
 **NOTE:** 
-1. *Hotspot* in the code should be replaced with the SSID of your hotspot.
+1.*Hotspot* in the code should be replaced with the SSID of your hotspot.
 
 **Relevant article**: [How to create a Wi-Fi Hotspot on Linux Mint](https://www.fosslinux.com/15132/how-to-create-a-wi-fi-hotspot-on-linux-mint.htm) (Should be similar for anything other than Mint)
 
